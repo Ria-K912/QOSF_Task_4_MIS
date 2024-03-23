@@ -23,7 +23,8 @@ To run the code, you need:
 
 ## Install the required Python dependencies:
 ```bash
-pip install networkx pyomo matplotlib classiq dwave-ocean-sdk ```
+pip install networkx pyomo matplotlib classiq dwave-ocean-sdk
+```
 
 
 ## Setup
