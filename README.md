@@ -30,7 +30,9 @@ pip install networkx pyomo matplotlib classiq dwave-ocean-sdk
 ## Setup
 
 Clone this repository:
-git clone [https://github.com/Ria-K912/QOSF_Task_4_MIS](url)
+```markdown
+```bash
+git clone https://github.com/Ria-K912/QOSF_Task_4_MIS.git
 
 
 
